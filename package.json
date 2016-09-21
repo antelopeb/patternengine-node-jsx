@@ -1,4 +1,6 @@
 {
+	"name" : "patternengine-node-jsx",
+	"version" : "0.0.0",
 	"main": "lib/engine_jsx.js",
 	"dependencies" : {
 		"fs-extra" : "^0.30.0"
