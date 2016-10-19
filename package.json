@@ -1,8 +1,15 @@
 {
-	"name" : "patternengine-node-jsx",
-	"version" : "0.0.0",
-	"main": "lib/engine_jsx.js",
-	"dependencies" : {
-		"fs-extra" : "^0.30.0"
-	}
+  "name": "patternengine-node-jsx",
+  "version": "0.0.0",
+  "main": "lib/engine_jsx.js",
+  "dependencies": {
+    "fbjs": "^0.8.5",
+    "fs-extra": "^0.30.0",
+    "node-jsx": "^0.13.3",
+    "react": "^15.3.2",
+    "react-children": "0.0.3",
+    "react-dom": "^15.3.2",
+    "react-dom-server": "0.0.5",
+    "react-universal": "0.0.4"
+  }
 }
