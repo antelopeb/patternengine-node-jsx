@@ -6,6 +6,7 @@
     "babel-core": "^6.25.0",
     "fbjs": "^0.8.5",
     "fs-extra": "^0.30.0",
+    "material-ui": "^1.0.0-alpha.22",
     "node-jsx": "^0.13.3",
     "react": "^15.3.2",
     "react-children": "0.0.3",
